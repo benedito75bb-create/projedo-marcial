@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(16, 16, 16);
+}
+
+
+
+#tt{
+    text-align: center;
+    display: block;
+    margin: auto;
+    color: aliceblue;
+    background-color: #8b0000;
+    border: 3px ridge rgb(246, 246, 0);
+    width: 50%;
+}
+.bg2{
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    display: block;
+    width: fit-content;
+
+}
+.bg2 img{
+    display: block;
+    width: 610;
+    
+}
+.ax{
+    border: 4 ridge rgb(36, 36, 36);
+    background-color: rgba(82, 82, 82, 0.685);
+
+    position: absolute;
+    top: 1%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+
+}
